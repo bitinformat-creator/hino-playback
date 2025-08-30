@@ -2,16 +2,20 @@
   {
     "id": 1,
     "title": "Amor que vence",
-    "videoId": "6VetTi-fUKY"
+    "videoId": "6VetTi-fUKY",
+     "time": 0
   },
   {
     "id": 2,
     "title": "Alvo mais que a neve",
-    "videoId": "4G5fzn6hAcM"
+    "videoId": "4G5fzn6hAcM",
+     "time": 0
   },
   {
     "id": 3,
     "title": "Aleluia! Já creio",
-    "videoId": "QYyHLewOEDU"
+    "videoId": "QYyHLewOEDU",
+     "time": 0
   }
+
 ]
